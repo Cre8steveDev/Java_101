@@ -37,7 +37,7 @@ public class AdvCalculator extends Calculator {
 	public AdvCalculator(String name, String model) {
 		super(name, model);
 	}
-
+ 
 	@Override
 	public void add(int[] numbers) {
 		System.out.println("Add in the Sub Class");
